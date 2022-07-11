@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29ddcdf3-ecf6-40c8-a0cf-63a087183aca" name="Changes" comment="Initial set up and test program Welcome.java">
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/ComputeExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/ShowLogicErrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/ShowRuntimeErrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/ShowSyntaxErrors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch.1/WelcomeWithThreeMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersises/Exercise9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro To Java BY - Y. Danel Liang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro To Java BY - Y. Danel Liang.iml" afterDir="false" />
-    </list>
+    <list default="true" id="29ddcdf3-ecf6-40c8-a0cf-63a087183aca" name="Changes" comment="Finished CH 1 and started the exercises." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657208794691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished CH 1 and started the exercises.">
+      <created>1657546023009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657546023009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial set up and test program Welcome.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial set up and test program Welcome.java" />
+    <MESSAGE value="Finished CH 1 and started the exercises." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished CH 1 and started the exercises." />
   </component>
 </project>
